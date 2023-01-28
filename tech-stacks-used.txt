@@ -1,0 +1,14 @@
+node
+express
+morgan
+bcrypt
+mongoose
+mongodb
+react
+yarn
+npm
+axios
+
+
+learnings:
+Always attach media files in last of the req content like add file after adding the filename
